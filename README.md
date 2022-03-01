@@ -12,9 +12,11 @@
 - SSAFY 6th
 
 ## Stack
-<img src="https://img.shields.io/badge/python-1533B0?style=for-the-badge&logo=python&logoColor=yellow" height="5%"> </br>
-<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="5%"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="5%">
-
+#### Data Science
+<img src="https://img.shields.io/badge/python-4584b6?style=for-the-badge&logo=python&logoColor=white" height="5%"> <img src="https://img.shields.io/badge/tensorflow-ff6f00?style=for-the-badge&logo=tensorflow&logoColor=white" height="5%"> <img src="https://img.shields.io/badge/keras-d00000?style=for-the-badge&logo=keras&logoColor=white" height="5%">
+<!-- <img src="https://img.shields.io/badge/pytorch-ee4c2c?style=for-the-badge&logo=pytorch&logoColor=white" height="5%">  -->
+#### Front End
+<img src="https://img.shields.io/badge/html-E34F26?style=for-the-badge&logo=html5&logoColor=white" height="5%"> <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white" height="5%"> <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" height="5%"> <img src="https://img.shields.io/badge/react-00d8ff?style=for-the-badge&logo=react&logoColor=white" height="5%"> <img src="https://img.shields.io/badge/react_redux-764abc?style=for-the-badge&logo=redux&logoColor=white" height="5%"> 
 
 ## Solved.ac Level
 [![Solved.ac
