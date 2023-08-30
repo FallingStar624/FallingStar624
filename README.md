@@ -1,12 +1,13 @@
 ### Hi there 👋
 
 ## Experiences
-- Big Data Fintech Program, AI Inst., SNU(2020~2021)
+- Big Data Fintech Program, AI Inst., SNU (2020~2021)
   - Lending Club Charge-off Prediction
   - Airbnb Price Prediction
-  - Capstone PJT(Font Style Transfer) @KPMG Lighthouse
-- SSAFY 6th(2021~2022)
-- GSDS, SNU(2022~)
+  - Capstone PJT (Font Style Transfer) @KPMG Lighthouse
+- SSAFY 6th (2021~2022)
+- GSDS, SNU (2022~)
+  - THUNDER Research Group (2022~)
 
 ## Stack
 #### Data Science
